@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(43, 42, 42);
+    color: white;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    color: transparent;
+}
+
+footer img {
+    height: 30px;
+}
+
+footer span {
+    height: 50px;
+}
